@@ -1,0 +1,8 @@
+prefix=/home/mike/python_test/devel
+
+Name: example
+Description: Description of example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
